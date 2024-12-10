@@ -11,7 +11,7 @@ function AdminDashboard() {
         <ul>
           {/* Use Link from react-router-dom to navigate */}
           <li><Link to="/manage-homestays">Manage Homestays</Link></li>
-          <li><Link to="/manage-attractions">Manage Attractions</Link></li>
+          
           <li><Link to="/logout">Logout</Link></li>
         </ul>
       </nav>

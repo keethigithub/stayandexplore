@@ -38,7 +38,7 @@ const TouristDashboard = () => {
         <ul>
           
           <li><Link to="/homestays">Find Homestays</Link></li>
-          <li><Link to="/booking-history">Your Bookings</Link></li>
+          <li><Link to="/feedback">Feedback</Link></li>
           <li><Link to="/logout">Logout</Link></li>
         </ul>
       </aside>
